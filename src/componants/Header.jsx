@@ -44,7 +44,7 @@ const Header = () => {
         </nav>
         <div>
           <a
-            href="/Cv.pdf"
+            href="/myCV.pdf"
             className="bg-white text-blue-500 font-bold py-2 px-4 rounded transition duration-300 hover:bg-gray-200"
           >
             Resume
